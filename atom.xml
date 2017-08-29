@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Mr.chw</title>
+  <subtitle>万物皆有裂痕</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2017-08-29T06:39:00.489Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>Mr.chw</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title></title>
+    <link href="http://yoursite.com/2017/08/29/test/"/>
+    <id>http://yoursite.com/2017/08/29/test/</id>
+    <published>2017-08-29T07:13:54.436Z</published>
+    <updated>2017-08-29T06:39:00.489Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
